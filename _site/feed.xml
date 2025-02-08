@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-08T17:27:58+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Asdf title</title><subtitle>to be continued ....
+</subtitle><author><name>Jakub Wiecek</name><email>kuba.wiecek03@gmail.com</email></author><entry><title type="html">1234</title><link href="http://localhost:4000/foo/2025/02/08/1234.html" rel="alternate" type="text/html" title="1234" /><published>2025-02-08T00:00:00+01:00</published><updated>2025-02-08T00:00:00+01:00</updated><id>http://localhost:4000/foo/2025/02/08/1234</id><content type="html" xml:base="http://localhost:4000/foo/2025/02/08/1234.html"><![CDATA[<p><code class="language-plaintext highlighter-rouge">tak bylo nie klamie</code></p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="k">def</span> <span class="nf">foo</span><span class="p">():</span>
+    <span class="nf">print</span><span class="p">(</span><span class="sh">'</span><span class="s">hello foo</span><span class="sh">'</span><span class="p">)</span>
+<span class="nf">foo</span><span class="p">()</span></code></pre></figure>
+
+<p>the end.</p>
+
+<p>PS <a href="http://jekyllrb.com/docs/home">AAAAA</a></p>]]></content><author><name>ja</name></author><category term="foo" /><summary type="html"><![CDATA[tak bylo nie klamie]]></summary></entry></feed>
